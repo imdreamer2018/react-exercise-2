@@ -1,0 +1,14 @@
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 80px;
+  background-color: rgb(34,88,212);
+}
+
+.store-name {
+  font-family: Arial, serif;
+  font-size: 30px;
+  color: white;
+  padding-left: 20px;
+}
